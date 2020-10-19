@@ -11,9 +11,9 @@ Each lecture will have an assignment associated with it, described below.
 
 ## Lesson 1 - The Shell
 * If you're on Windows 10:
- * [Install WSL|https://docs.microsoft.com/en-us/windows/wsl/install-win10]
- * [Install Ubuntu|https://www.microsoft.com/en-il/p/ubuntu/9nblggh4msv6]
- * [Install Windows Terminal|https://www.microsoft.com/en-il/p/windows-terminal/9n0dx20hk701]
+ * [Install WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+ * [Install Ubuntu](https://www.microsoft.com/en-il/p/ubuntu/9nblggh4msv6)
+ * [Install Windows Terminal](https://www.microsoft.com/en-il/p/windows-terminal/9n0dx20hk701)
 * Navigate around the shell:
  * Go into directories
  * Go up out of them
