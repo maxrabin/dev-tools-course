@@ -25,8 +25,8 @@ Each lecture will have an assignment associated with it, described below.
 * Use the `find` command to find all documents of a particular type (choose whichever file type you want)
    in your home folder
 * Install `ack` and run `ack <phrase>` to search your code for a phrase you expect to find your code (eg. "main"
-   or `if`
-* Repeat the `ls` command from before by using <Ctrl>+<R> to search your history
+   or `if`)
+* Repeat the `ls` command from before by using \<Ctrl\>+\<R\> to search your history
 
 ## Lesson 2 - Vim
 
